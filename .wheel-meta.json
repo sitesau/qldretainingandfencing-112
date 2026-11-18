@@ -1,0 +1,22 @@
+{
+  "wheel_id": 923,
+  "structure": "umbrella",
+  "slug": "qldretainingandfencing-112",
+  "project": "retaining-wall-installation-brisbane-local-options-compared-ba9",
+  "parent_t1_ref": "qldretainingandfencing-155",
+  "node_role": "feeder",
+  "money_target": "qldretainingandfencing.com.au",
+  "primary_kw": "retaining wall installation brisbane local options compared",
+  "intended_url": "http://retaining-wall-installation-brisbane-local-options-compared-ba9.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "38170210da6b2827",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/retaining-wall-installation-brisbane-beginner-guide-e2e1990ef4e/",
+      "anchor": "Retaining Wall Installation Brisbane Beginner Guide: Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
